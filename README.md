@@ -10,7 +10,7 @@ public class Main {
 
   public static void main(String[] args) {
     Main myProfile = new Main("I Putu Eka Wirawan", "Bali - Indonesia");
-    System.out.println("Hello there, my name is " + myProfile.modelName + ", from " + myProfile.location);
+    System.out.println("Hello there, my name is " + myProfile.name + ", from " + myProfile.location);
   }
 }
 
